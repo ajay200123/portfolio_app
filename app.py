@@ -19,7 +19,7 @@ if page == "Home":
     col1, col2 = st.columns([2, 1])
 
     with col1:
-        st.title("👋 Hi, I'm Your Name")
+        st.title("👋 Hi, I'm Ajay Nikam")
         st.subheader("Python Developer | Streamlit Expert")
 
         st.write("""
